@@ -1,0 +1,294 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    margin-bottom: 6rem;
+    background-image: url(img/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    color: white;
+    text-align: center;
+    padding: 15.8rem;
+}
+
+.banner h1 {
+    font-size: 60px;
+}
+
+.lets {
+    color: rgb(60, 0, 255);
+}
+
+.banner p {
+    font-size: 38px;
+}
+
+.banner a {
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding: 15px 40px;
+    font-weight: 500;
+}
+
+.link_button {
+
+    text-decoration: none;
+    font-weight: 700;
+    color: rgb(248, 243, 243);
+    background-image: linear-gradient(rgb(39, 39, 226), teal);
+    padding: 20px 50px;
+    border-radius: 18px;
+    border: 10px;
+    margin: 10px 10px;
+    font-size: 40px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.newlink {
+    text-align: left;
+}
+
+
+
+.highline_today {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.donate_line {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.donate-amount {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    font-size: 30px;
+    color: gray;
+    font-weight: bold;
+}
+
+.money-3 {
+    border: 2px solid rgb(0, 213, 255);
+    color: rgb(0, 229, 255);
+    background-color: rgb(192, 248, 255);
+    padding: 30px 20px;
+    font-size: 50px;
+}
+
+.money-1,
+.money-2,
+.money-4,
+.money-5 {
+    padding: 30px 20px;
+    font-size: 50px;
+}
+
+.Amount-sector {
+    margin-top: 3.5rem;
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+    opacity: 4px;
+    font-size: 50px;
+}
+
+.plan {
+    text-align: center;
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.link {
+    margin-bottom: 2rem;
+    color: white;
+    text-align: center;
+    padding: 8rem;
+}
+
+.donate-plan-paragraph {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3.5rem;
+    font-size: 30px;
+}
+
+.sector {
+    display: flex;
+    width: 70%;
+    margin-top: 5rem;
+    margin-left: 15%;
+    justify-content: space-between;
+    gap: 10px 30px;
+    margin-bottom: 4rem;
+}
+
+
+
+.sector-1 {
+    height: 800px;
+    width: 720px;
+    padding: 40px 17px;
+    background-image: linear-gradient(rgb(66, 66, 225), teal);
+    box-shadow: 10px 10px 40px rgb(28, 22, 86);
+    border-radius: 30px;
+
+}
+
+.sector-1 h3 {
+    font-size: 50px;
+}
+
+.sector-1 p {
+    font-size: 30px;
+}
+
+
+
+.sector-2 {
+    height: 800px;
+    width: 720px;
+    padding: 40px 17px;
+    background-image: linear-gradient(rgb(39, 39, 226), teal);
+    box-shadow: 10px 10px 40px rgb(28, 22, 86);
+    border-radius: 30px;
+
+}
+
+.sector-2 h3 {
+    font-size: 50px;
+}
+
+.sector-2 p {
+    font-size: 30px;
+}
+
+.sector-3 {
+    height: 800px;
+    width: 720px;
+    padding: 40px 17px;
+    background-image: linear-gradient(rgb(39, 39, 226), teal);
+    box-shadow: 10px 10px 40px rgb(28, 22, 86);
+    border-radius: 30px;
+
+}
+
+.sector-3 h3 {
+    font-size: 50px;
+}
+
+.sector-3 p {
+    font-size: 30px;
+}
+
+.flex_container-1 {
+    display: flex;
+    width: 92%;
+    margin-top: 14rem;
+    margin-left: 5%;
+    justify-content: space-between;
+    gap: 230px 30px;
+    margin-bottom: 4rem;
+}
+
+.flex_container-1 p {
+    text-align: left;
+    font-size: 25px;
+}
+
+.flex_container-1 h1 {
+    font-size: 70px;
+
+}
+
+.flex_container-2 {
+    display: flex;
+    width: 90%;
+    margin-top: 15rem;
+    margin: 5%;
+    justify-content: space-around;
+    gap: 230px 30px;
+    margin-bottom: 8rem;
+}
+
+.flex_container-2 p {
+    text-align: right;
+    font-size: 25px;
+}
+
+.flex_container-2 h1 {
+    font-size: 70px;
+    text-align: right;
+}
+
+.flex_container-2 a {
+    text-align: justify;
+}
+
+.flex_container-2_div {
+    margin-top: 5rem;
+    text-align: justify;
+}
+
+.updates {
+    text-align: center;
+    font-size: 75px;
+}
+
+form {
+
+    text-align: center;
+    background-color: rgb(215, 250, 249);
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding: 80px 160px;
+    box-shadow: 10px 10px 40px rgb(28, 22, 86);
+    border-radius: 2%;
+
+}
+
+.email-section {
+    background-color: rgb(161, 228, 242);
+    font-weight: 400;
+    border: none;
+    padding: 40px 20px;
+    width: 30%;
+    box-sizing: content-box;
+    font-size: 40px;
+}
+
+.subscribe-section {
+    background-color: rgb(34, 134, 234);
+    font-weight: 400;
+    border: none;
+    padding: 40px 60px;
+    font-size: 40px;
+}
+
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 100px 40px;
+}
+
+footer h1 {
+    color: coral;
+    font-size: 40px;
+    font-family: caviet;
+}
