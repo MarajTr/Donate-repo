@@ -200,16 +200,16 @@ body {
     margin-left: 5%;
     justify-content: space-between;
     gap: 230px 30px;
-    margin-bottom: 4rem;
+    margin-bottom: 20rem;
 }
 
 .flex_container-1 p {
     text-align: left;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .flex_container-1 h1 {
-    font-size: 70px;
+    font-size: 50px;
 
 }
 
@@ -229,7 +229,7 @@ body {
 }
 
 .flex_container-2 h1 {
-    font-size: 70px;
+    font-size: 40px;
     text-align: right;
 }
 
@@ -244,7 +244,7 @@ body {
 
 .updates {
     text-align: center;
-    font-size: 75px;
+    font-size: 55px;
 }
 
 form {
@@ -268,7 +268,7 @@ form {
     padding: 40px 20px;
     width: 30%;
     box-sizing: content-box;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .subscribe-section {
@@ -276,7 +276,7 @@ form {
     font-weight: 400;
     border: none;
     padding: 40px 60px;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 
